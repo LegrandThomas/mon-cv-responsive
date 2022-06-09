@@ -226,7 +226,10 @@ section > div{
         flex: 0 1 25%;
     }
 }
+.droite{
+text-align: right;
 
+}
 /*Dark mode*/
 
 
